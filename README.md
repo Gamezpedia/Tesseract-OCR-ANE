@@ -1,5 +1,5 @@
 # Tesseract-ANE
-Tesseract Adobe Native Extension for Android &amp; iOS
+Tesseract OCR Adobe Native Extension for Android &amp; iOS
 
 Getting Started
 =================
@@ -11,7 +11,7 @@ Getting Started
 
 In order to use Tesseract OCR in your AS3/AIR project:
 
-1. Add ANE to your project
+1. Add ANE to your project.
 
 2. Instatntiate the main ANE class:
 
