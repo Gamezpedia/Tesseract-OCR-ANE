@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<platform xmlns="http://ns.adobe.com/air/extension/4.0">
+    <packagedDependencies>
+        <packagedDependency>tess-two.jar</packagedDependency>
+    </packagedDependencies>
+	<packagedResources>
+		<packagedResource>
+			<packageName>com.lj.ane.tesseract.TesseractANE</packageName>
+			<folderName>res</folderName>
+		</packagedResource>
+	</packagedResources>
+</platform>
