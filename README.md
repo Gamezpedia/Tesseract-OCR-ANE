@@ -1,5 +1,5 @@
 # Tesseract-ANE
-Tesseract OCR Adobe Native Extension for Android &amp; iOS
+Tesseract OCR Adobe Native Extension for Android &amp; iOS.
 
 Getting Started
 =================
@@ -71,8 +71,9 @@ Tips
 License
 =================
 
-Tesseract OCR iOS and TesseractOCR.framework, maintained by Daniele Galiotto (founder) (http://www.g8production.com), are distributed under the MIT
-license (see 
+Tesseract OCR Adobe Native Extension is distributed under the Apache 2.0 license (see LICENSE.md).
+
+Tesseract OCR iOS and TesseractOCR.framework, maintained by Daniele Galiotto (founder) (http://www.g8production.com), are distributed under the MIT license (see 
 https://opensource.org/licenses/MIT).
 
 Tess-two, maintained by Robert Theis (support page https://stackoverflow.com/questions/tagged/tess-two), is
