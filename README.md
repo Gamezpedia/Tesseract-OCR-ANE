@@ -5,9 +5,11 @@ Getting Started
 =================
 **NB1**: You'll need trained data files (https://github.com/tesseract-ocr/tessdata) to be located in `tessdata` directory (deployed together with your project or already available on target device) in order Tesseract engine to work.
 
-**NB2**: Due to the big size of resulting ANE file you can change `buildANE` script for your platform (`.bat` for Win, `.sh` for OSX) and `extension.xml` and reduild ANE just for Android or iOS.
+**NB2**: Due to the big size of resulting ANE file you can change `buildANE` script for your platform (`.bat` for Win, `.sh` for OSX) and `extension.xml` and rebuild ANE just for Android or iOS.
 
 **NB3**: All the build scripts are processing files only inside the `build` folder and subfolders, so you'll need to copy all updated `*.a`, `*.so` or `*.aar` there yourself after making changes in native projects.
+
+**NB4**: Update path variables at the beginning of `buildANE` script for your platform (`.bat` for Win, `.sh` for OSX) before trying to rebuild ANE.
 
 In order to use Tesseract OCR in your AS3/AIR project:
 
