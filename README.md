@@ -1,4 +1,4 @@
-# Tesseract-ANE
+# Tesseract OCR ANE
 Tesseract OCR Adobe Native Extension for Android &amp; iOS.
 
 Getting Started
